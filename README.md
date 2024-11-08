@@ -1,2 +1,2 @@
-# besteaglercraftlaunchers
-Some of the best Eaglercraft Launchers.
+# Eaglercraft Launchers
+These are one of the best Eaglercraft launchers I've found on GitHub.
